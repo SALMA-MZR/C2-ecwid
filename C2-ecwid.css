@@ -1,0 +1,43 @@
+/* navbarre */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    
+}
+.logonav{
+    height: 60px;
+    width: 150px;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.buttonnav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.b-nav{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+/* content */
+.content{
+    margin: auto;
+    text-align: center;
+}
+.title_content{
+    font-size: xx-large;
+}
