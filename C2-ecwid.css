@@ -278,7 +278,7 @@ p{
 .lefttext{
     width: 200px;
     padding-left: 30px;
-    
+  
 }
 /* 3 cards */
 .chatbot{
@@ -288,10 +288,6 @@ p{
     display: flexbox;
     text-align: left;
     border-radius: 20px;
-
-    
-
-   
 }
 .imgchat{
     height: 50px;
@@ -324,4 +320,37 @@ p{
 .lefta3{
     margin-top: 58px;
     margin-left: 20px;
+}
+/*  */
+.yourfree{
+    display: flex;
+    width: 80%;
+    border: 2px solid black;
+    height: 150px;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 70px;
+    margin-left: 70px;
+    border-radius: 15px;
+   
+}
+.leftext{
+    width: 400px;
+    font-size: xx-large;
+}
+.lastbutton{
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(254, 223, 66);
+    border-radius: 15px;
+}
+.rightbutton{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.nocreditcard{
+    display: flex;
+    justify-content: center;
+    color: darkslategray;
 }
