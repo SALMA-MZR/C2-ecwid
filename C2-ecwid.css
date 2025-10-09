@@ -277,6 +277,51 @@ p{
 }
 .lefttext{
     width: 200px;
-    padding-left: 50px;
+    padding-left: 30px;
     
+}
+/* 3 cards */
+.chatbot{
+  width: 280px;
+    height: 250px;
+    border: 2px solid black;
+    display: flexbox;
+    text-align: left;
+    border-radius: 20px;
+
+    
+
+   
+}
+.imgchat{
+    height: 50px;
+    margin: 20px 0 0 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+   
+}
+.lefta{
+    margin-top: 75px;
+    margin-left: 20px;
+}
+.liveS{
+    padding: 20px 0 0 20px;
+    font-weight: bold;
+}
+.expert{
+    padding-left: 20px;
+}
+.allcards{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+    margin-left: 60px;
+}
+.lefta2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.lefta3{
+    margin-top: 58px;
+    margin-left: 20px;
 }
