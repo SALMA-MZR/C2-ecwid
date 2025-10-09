@@ -60,3 +60,36 @@ h6{
     color: rgb(108, 104, 104);
     padding: 0 320px 0 320px;
 }
+/* reviews */
+.reviews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 30px;
+}
+h3{
+    margin-block-start: 0em;
+    margin-block-end: 0em; 
+    color: rgb(90, 90, 90); 
+    display: flex;
+    justify-content: center;
+}
+h4{
+    margin-block-start: 1.6em;
+    margin-block-end: 1.6em;
+    color: darkgray;
+    font-size: small;
+}
+.crowd{
+    display: flex;
+    justify-content: center;
+}
+/* Sell anywhere */
+.media{
+   display: flex;
+   gap: 30px;
+   padding:30px;
+   
+    
+}
