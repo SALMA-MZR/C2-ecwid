@@ -34,7 +34,7 @@ a{
     border-radius: 5px;
     cursor: pointer;
 }
-/* content */
+/* first section */
 .content{
     margin: auto;
     text-align: center;
@@ -360,11 +360,57 @@ p{
 .rightbutton{
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    
+    gap: 10px;    
 }
 .nocreditcard{
     display: flex;
     justify-content: center;
     color: darkslategray;
+}
+/* footer */
+.footer1{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 50px;
+    padding: 60px 0 60px 50px;
+}
+.imgfooter{
+    height: 100px;
+}
+.footer2{
+  background-color: black;
+    color: white;
+    display: flex;
+    gap: 50px;
+    padding: 0 0 60px 300px;  
+}
+.alltitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgb(148, 148, 148);
+}
+footer{
+    padding-top: 40px;
+    background-color: black;
+    color: white;
+    margin-top: 60px;
+}
+input{
+    background-color: black;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 5px;
+    margin: 0 0 20px 300px;
+    padding: 3px 3px 3px 0;
+}
+.icons{
+    color: white;
+    font-size: 25px;
+}
+.searchicons{
+    display: flex;
+    gap: 400px;
+}
+.appstore img{
+    width: 250px;
 }
