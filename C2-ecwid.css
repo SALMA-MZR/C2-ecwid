@@ -1,3 +1,4 @@
+
 /* navbarre */
 .navbar{
     display: flex;
@@ -197,7 +198,6 @@ p{
 }
 .stargreen{
     height: 40px;
-   
 }
 .Pamela-Strydom{
     display: flex;
@@ -236,10 +236,11 @@ border-radius: 100%;
 .bnjamin{
     background-color: rgb(90, 95, 248);
     width: 900px;
-    padding: 40px 60px 60px 60px;
+    padding: 40px 6px 60px 60px;
     border-radius: 40px;
-    border: 2px solid;
+    border: 2px solid black;
     margin-left: 40px;
+    color: white;
     }
 .Benjamin-Scott{
     display: flex;
@@ -256,9 +257,10 @@ p{
 }
 .imgblue{
     position: absolute;
-    left: 700px;
-    top: 1960px;
-    width: 500px;
+    left: 750px;
+    top: 2030px;
+    width: 415px;
+    
 }
 .bluebutton{
     background-color: blue;
@@ -267,6 +269,9 @@ p{
     border: 1px solid black;
     color: white;
     cursor: pointer;
+}
+.right-manage{
+    padding-left: 50px;
 }
 .ecwidis{
     padding-right: 300px;
