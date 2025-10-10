@@ -402,6 +402,7 @@ input{
     border-radius: 5px;
     margin: 0 0 20px 300px;
     padding: 3px 3px 3px 0;
+    color: white;
 }
 .icons{
     color: white;
@@ -413,4 +414,40 @@ input{
 }
 .appstore img{
     width: 250px;
+}
+.planetworld{
+   width: 30px;
+}
+.globalT{
+  display: flex;
+  align-items: center;
+  font-weight: bolder;
+  gap: 15px; 
+}
+.global{
+    padding: 50px;
+    padding-bottom: 60px;
+    
+}
+.lastpartifooter{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 60px 0 0;
+}
+.a-footer{ 
+    color: white;
+}
+.copyright{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.iconcopyright{
+    color: gray;
+}
+.righticons{
+    text-align: center;
+}
+hr{ 
+    border:1px solid rgb(81, 81, 81);
 }
