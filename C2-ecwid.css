@@ -282,7 +282,7 @@ p{
     display: flex;
     gap: 30px;
     width: 70%;
-    margin-left: 120px;
+    margin: auto;
     border: 2px solid black;
     border-radius: 50px;
     margin-top: 50px;
@@ -329,7 +329,7 @@ p{
     display: flex;
     gap: 30px;
     padding: 50px;
-    margin-left: 60px;
+    margin-left: 120px;
 }
 .lefta2{
     margin-top: 40px;
